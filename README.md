@@ -2,9 +2,9 @@
 
 ## Link
 
-https://www.desmos.com/calculator/lxjdlimfxn
+https://www.desmos.com/calculator/vnggg73djq
 
 ## TODO
 
-* Add AI
+* Add smart AIs
 * Add settings
