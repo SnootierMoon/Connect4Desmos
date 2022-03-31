@@ -3,11 +3,17 @@
 If u r reading this and you have spare time, pls playtest using the link below.
 If u find bugs, file an issue on github <3.
 
+Features
+ * Local PvP
+ * vs. Computer (random)
+ * Auto Win-Check
+ * Score Accumulator
+
 ## Link
 
-https://www.desmos.com/calculator/h0wmb1sdun
+https://www.desmos.com/calculator/jgvowehrqo
 
 ## TODO
 
-* Add smart AIs
+* Add smarter AI options
 * Add settings
