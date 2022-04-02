@@ -8,10 +8,11 @@ Features
  * vs. Computer (random)
  * Auto Win-Check
  * Score Accumulator
+ * Undo button
 
 ## Link
 
-https://www.desmos.com/calculator/zs0fegdjlt
+https://www.desmos.com/calculator/y7ibqfopcr
 
 ## TODO
 
