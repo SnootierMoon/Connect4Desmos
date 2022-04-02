@@ -12,7 +12,7 @@ Features
 
 ## Link
 
-https://www.desmos.com/calculator/r6pyrueu4e
+https://www.desmos.com/calculator/w1rpumec5l
 
 ## TODO
 
