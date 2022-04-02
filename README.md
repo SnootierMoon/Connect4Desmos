@@ -12,9 +12,9 @@ Features
 
 ## Link
 
-https://www.desmos.com/calculator/y7ibqfopcr
+https://www.desmos.com/calculator/ab7cys7dhj
 
 ## TODO
 
-* Add smarter AI options
+* Fix smart AI
 * Add settings
