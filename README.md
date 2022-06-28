@@ -5,14 +5,14 @@ If u find bugs, file an issue on github <3.
 
 Features
  * Local PvP
- * vs. Computer (random)
+ * vs. Computer (random or stupid AI)
  * Auto Win-Check
- * Score Accumulator
+ * Score Counter
  * Undo button
 
 ## Link
 
-https://www.desmos.com/calculator/w1rpumec5l
+https://www.desmos.com/calculator/zcg3e2sz7g
 
 ## TODO
 
