@@ -5,16 +5,18 @@ If u find bugs, file an issue on github <3.
 
 Features
  * Local PvP
- * vs. Computer (random or stupid AI)
+ * vs. Computer (random)
  * Auto Win-Check
  * Score Counter
  * Undo button
+ 
+ AI currently does not work unfortuantely :bangbang:
 
 ## Link
 
-https://www.desmos.com/calculator/zcg3e2sz7g
+https://www.desmos.com/calculator/eoqeft399p
 
 ## TODO
 
-* Fix smart AI
+* Re-write AI to avoid desmos max nesting depth
 * Add settings
